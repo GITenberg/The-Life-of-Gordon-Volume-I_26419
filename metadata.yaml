@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2169'
     url: http://www.gutenberg.org/2009/agents/2169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26419#The-Life-of-Gordon-Volume-I
 gutenberg_issued: '2008-08-24'
 gutenberg_type: Text
 identifiers:
